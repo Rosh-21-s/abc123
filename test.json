@@ -1,0 +1,182 @@
+[
+{
+  "q": "A moving particle of mass m makes a head on collision with 2m at rest. If perfectly elastic, % loss of energy of colliding particle is:",
+  "opt": ["50%", "66.7%", "88.9%", "100%"],
+  "a": "88.9%"
+},
+{
+  "q": "A disc of mass 1 kg and radius 0.1 m is rotating with 20 rad/s. What is angular velocity if 0.5 kg is put on its circumference?",
+  "opt": ["10 rad/sec", "20 rad/sec", "40 rad/sec", "30 rad/sec"],
+  "a": "10 rad/sec"
+},
+{
+  "q": "A string is wrapped around a cylinder of mass M. If released from rest, the acceleration of the cylinder is:",
+  "opt": ["2g/3", "g", "g/3", "g/2"],
+  "a": "2g/3"
+},
+{
+  "q": "A tube closed at one end has fundamental frequency 512 Hz. If both ends are open, the fundamental frequency will be:",
+  "opt": ["1024 Hz", "512 Hz", "256 Hz", "128 Hz"],
+  "a": "1024 Hz"
+},
+{
+  "q": "If volume of a metal block changes by 0.12% when heated through 20°C, the coefficient of linear expansion is:",
+  "opt": ["10⁻⁵", "2x10⁻⁵", "3x10⁻⁵", "5x10⁻⁵"],
+  "a": "2x10⁻⁵"
+},
+{
+  "q": "80 gm of water at 30°C is poured on a large block of ice at 0°C. The mass of ice that melts is:",
+  "opt": ["30 gm", "80 gm", "150 gm", "1600 gm"],
+  "a": "30 gm"
+},
+{
+  "q": "Energy emitted from a black body at 127°C is 1.0x10⁶ J/s.m². At what temp will the rate be 16.0x10⁶ J/s.m²?",
+  "opt": ["754°C", "527°C", "254°C", "508°C"],
+  "a": "527°C"
+},
+{
+  "q": "A water fall is 84 m high. If half the K.E. converts to heat, the rise in temperature of water is:",
+  "opt": ["0.098°C", "0.98°C", "9.8°C", "0.0098°C"],
+  "a": "0.098°C"
+},
+{
+  "q": "How many gram of oxygen required to burn completely 570 g octane (C8H18)?",
+  "opt": ["2000 g", "3000 g", "4000 g", "5000 g"],
+  "a": "2000 g"
+},
+{
+  "q": "How many gram of oxygen required to burn completely 570 g octane (C8H18)?",
+  "opt": ["2000 g", "3000 g", "4000 g", "5000 g"],
+  "a": "2000 g"
+},
+{
+  "q": "Which of the following has been arranged in order of increasing oxidation number of nitrogen?",
+  "opt": [
+    "NH3 < N2O5 < NO < N2",
+    "NO2+ < NO3- < NO2- < N3-",
+    "NH4+ < N2H4 < NH2OH < N2O",
+    "NO2 < NaN3 < NH4+ < N2O"
+  ],
+  "a": "NH4+ < N2H4 < NH2OH < N2O"
+},
+{
+  "q": "The correct thermodynamic conditions for the spontaneous reaction at all temperatures is:",
+  "opt": [
+    "ΔH > 0 and ΔS > 0",
+    "ΔH > 0 and ΔS < 0",
+    "ΔH < 0 and ΔS > 0",
+    "ΔH < 0 and ΔS < 0"
+  ],
+  "a": "ΔH < 0 and ΔS > 0"
+},
+{
+  "q": "Which of the following is the correct order of stability for the given carbocations (I: OCH3, II: Cl, III: CH3, IV: NO2)?",
+  "opt": ["I > III > II > IV", "I > II > III > IV", "III > I > II > IV", "I > IV > III > II"],
+  "a": "I > III > II > IV"
+},
+{
+  "q": "How many α-hydrogen (α-H) are present in the given carbocation (3-ethyl-3-methylpentyl type)?",
+  "opt": ["5", "6", "7", "8"],
+  "a": "7"
+},
+{
+  "q": "What is the IUPAC name of the compound with a cyclohexane ring, a double bond, Cl at pos 1, and Br at pos 3?",
+  "opt": [
+    "6-Bromo-2-chlorocyclohexene",
+    "3-Bromo-1-chlorocyclohexene",
+    "1-Bromo-3-chlorocyclohexene",
+    "2-Bromo-6-chlorocyclohex-1-ene"
+  ],
+  "a": "3-Bromo-1-chlorocyclohexene"
+},
+{
+  "q": "Successive ionisation potential of an element are 7.6 ev, 12.9 ev, 27 ev, and 92.5 ev. Number of valence electrons is:",
+  "opt": ["1", "3", "2", "4"],
+  "a": "3"
+},
+{
+  "q": "Which of the following anions boron CANNOT form?",
+  "opt": ["B(OH)4-", "BO2-", "BF6 3-", "BH4-"],
+  "a": "BF6 3-"
+},
+{
+  "q": "Select the WRONG statement about diborane (B2H6):",
+  "opt": [
+    "2C-2e bond formed by terminal hydrogen",
+    "3C-2e bond formed by bridge hydrogen",
+    "3C-2e bond called Banana bond",
+    "All hydrogen are present in same plane"
+  ],
+  "a": "All hydrogen are present in same plane"
+},
+{
+  "q": "What is the correct order of thermal stability of alkali metal sulphates?",
+  "opt": [
+    "Li2CO3 < Na2CO3 < K2CO3",
+    "BeSO4 < MgSO4 < CaSO4",
+    "Li2SO4 < Na2SO4 < K2SO4 < Rb2SO4 < Cs2SO4",
+    "None of these"
+  ],
+  "a": "Li2SO4 < Na2SO4 < K2SO4 < Rb2SO4 < Cs2SO4"
+},
+{
+  "q": "A line passes through (2, 2) and is parallel to the line 3x + y = 3. The sum of its x and y intercepts is:",
+  "opt": ["24/3", "30/3", "32/3", "16/3"],
+  "a": "32/3"
+},
+{
+  "q": "If the lines x + y + 3 = 0 and 2x - y - 9 = 0 lie along diameters of a circle of circumference 8π, then the equation of the circle is:",
+  "opt": [
+    "x² + y² - 4x + 10y + 13 = 0",
+    "x² + y² + 4x - 10y + 13 = 0",
+    "x² + y² - 4x - 10y + 13 = 0",
+    "x² + y² + 4x + 10y + 13 = 0"
+  ],
+  "a": "x² + y² - 4x + 10y + 13 = 0"
+},
+{
+  "q": "The foci of the hyperbola 4x² - 9y² - 36 = 0 are:",
+  "opt": ["(±√11, 0)", "(±√12, 0)", "(±√13, 0)", "None"],
+  "a": "(±√13, 0)"
+},
+{
+  "q": "If the sequence {a_i} is an A.P. with common difference 1, Σa_i (i=1 to n) = 192, and Σa_2i (i=1 to n/2) = 120, then n is equal to:",
+  "opt": ["48", "96", "92", "104"],
+  "a": "96"
+},
+{
+  "q": "If ax² + bx + c = 0 has real and distinct roots α and β (β > α), and a > 0, b < 0, c < 0, then:",
+  "opt": ["0 > β < |α|", "0 < |α| < β", "α + β < 0", "|α| + |β| = |b/a|"],
+  "a": "0 < |α| < β"
+},
+{
+  "q": "If α, β, γ, δ are the roots of x⁴ - 100x³ + 2x² + 4x + 10 = 0, then the value of 1/α + 1/β + 1/γ + 1/δ is:",
+  "opt": ["2/5", "1/10", "4", "-2/5"],
+  "a": "-2/5"
+},
+{
+  "q": "The number of rational terms in the expansion of (5^(1/2) + 7^(1/6))^65 is:",
+  "opt": ["10", "11", "12", "0"],
+  "a": "11"
+},
+{
+  "q": "Using digits {2, 4, 5, 7, 8, 9}, how many three-digit numbers 'xyz' can be formed (no repetition) such that x < y and z < y?",
+  "opt": ["20", "40", "60", "30"],
+  "a": "40"
+},
+{
+  "q": "Find the domain of the function f(x) = √[(1 - |x|) / (2 - |x|)]:",
+  "opt": [
+    "(-∞, ∞) - [-2, 2]",
+    "(-∞, ∞) - [-1, 1]",
+    "[-1, 1] ∪ (-∞, -2) ∪ (2, ∞)",
+    "None of these"
+  ],
+  "a": "[-1, 1] ∪ (-∞, -2) ∪ (2, ∞)"
+},
+{
+  "q": "If f(x) is a polynomial satisfying f(x).f(1/x) = f(x) + f(1/x) and f(4) = 65, then the value of f(6) is:",
+  "opt": ["217", "215", "216", "65"],
+  "a": "217"
+}
+]
